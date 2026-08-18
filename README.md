@@ -28,6 +28,3 @@ A Python-based image processing project that compares Sobel, Prewitt, and Canny 
 
 The program displays the original grayscale image along with the results of Sobel, Prewitt, and Canny edge detection.
 
-## Author
-
-Your Name
